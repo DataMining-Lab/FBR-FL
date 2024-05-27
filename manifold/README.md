@@ -1,7 +1,7 @@
 * NOTE: This repository will be updated to *ver 2.0* at least in August, 2022.
 # FBR-FL: Fair and Byzantine-Robust Federated Learning via SPD Manifold
 
-An unofficial implementation of `FederatedAveraging` (or `FedAvg`) algorithm proposed in the paper [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) in PyTorch. (implemented in Python 3.9.2.)
+
 
 ## Implementation points
 * Exactly implement the models ('2NN' and 'CNN' mentioned in the paper) to have the same number of parameters written in the paper.
