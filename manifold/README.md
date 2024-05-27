@@ -1,4 +1,4 @@
-* NOTE: This repository will be updated to *ver 2.0* at least in August, 2022.
+
 # FBR-FL: Fair and Byzantine-Robust Federated Learning via SPD Manifold
 
 
